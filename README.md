@@ -1,5 +1,5 @@
-# Telegram-Attendance-Bot
-Telegram Bot on Python 3.6 for classroom attendance check
+# dtcconnect-Attendance-Bot
+dtcconnect Bot on Python 3.6 for classroom attendance check
 Featuring:
   - 2 leveled check scheme:
       1. By Geolocation
